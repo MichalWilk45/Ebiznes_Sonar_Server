@@ -2,11 +2,11 @@ Zadanie 7 Sonar
 
 ✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/MichalWilk45/Ebiznes_Sonar_Server/commit/47e96bc018ddad2bf86690e15a647645e284f2a5)
 
-✅ 3.5 wymaganie 2 [Link do commita2]()
+✅ 3.5 wymaganie 2 [Link do commita2](https://github.com/MichalWilk45/Ebiznes_Sonar_Server/commit/e85f14d25fefccfd35976295a48e73801be2788a)
 
-✅ 4.0 wymaganie 3 [Link do commita 3]()
+✅ 4.0 wymaganie 3 [Link do commita 3](https://github.com/MichalWilk45/Ebiznes_Sonar_Server/commit/e85f14d25fefccfd35976295a48e73801be2788a)
 
-✅ 4.5 wymaganie 4 [Link do commita 4]()
+✅ 4.5 wymaganie 4 [Link do commita 4](https://github.com/MichalWilk45/Ebiznes_Sonar_Server/commit/e85f14d25fefccfd35976295a48e73801be2788a)
 
 ❌ 5.0 wymaganie 5 Link do commita 5
 
