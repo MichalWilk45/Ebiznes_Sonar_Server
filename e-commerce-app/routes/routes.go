@@ -6,13 +6,16 @@ import (
 	"github.com/labstack/echo/v4"
 )
 
+const productByID = "/products/:id"
+
+
 func SetupRoutes(e *echo.Echo) {
 	// Trasy dla produktów
 	e.GET("/products", controllers.GetProducts)
-	e.GET("/products/:id", controllers.GetProduct)
+	e.GET(productByID, controllers.GetProduct)
 	e.POST("/products", controllers.CreateProduct)
-	e.PUT("/products/:id", controllers.UpdateProduct)
-	e.DELETE("/products/:id", controllers.DeleteProduct)
+	e.PUT(productByID, controllers.UpdateProduct)
+	e.DELETE(productByID, controllers.DeleteProduct)
 	e.GET("/products/in-stock", controllers.GetProductsInStock)
 	e.GET("/products/category/:category_id", controllers.GetProductsByCategory)
 
